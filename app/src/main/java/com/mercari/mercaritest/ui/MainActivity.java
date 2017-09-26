@@ -38,7 +38,6 @@ public class MainActivity extends AppCompatActivity {
         getActivityComponent().inject(this);
 
         recyclerView.setLayoutManager(new GridLayoutManager(this, Constants.NUMBER_OF_COLUMNS));
-        //saleAdapter = new SaleAdapter(this);
         recyclerView.setAdapter(saleAdapter);
         recyclerView.setHasFixedSize(true);
 
