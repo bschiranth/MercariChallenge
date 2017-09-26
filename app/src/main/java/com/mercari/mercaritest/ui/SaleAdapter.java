@@ -1,4 +1,4 @@
-package com.mercari.mercaritest;
+package com.mercari.mercaritest.ui;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
@@ -9,6 +9,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
+import com.mercari.mercaritest.R;
 import com.mercari.mercaritest.data.model.Item;
 
 import java.util.List;

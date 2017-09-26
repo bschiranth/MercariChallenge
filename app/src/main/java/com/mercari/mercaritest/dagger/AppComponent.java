@@ -1,4 +1,4 @@
-package com.mercari.mercaritest;
+package com.mercari.mercaritest.dagger;
 
 
 import javax.inject.Singleton;

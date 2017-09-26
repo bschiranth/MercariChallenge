@@ -1,4 +1,4 @@
-package com.mercari.mercaritest;
+package com.mercari.mercaritest.dagger;
 
 import android.app.Application;
 import android.support.annotation.NonNull;
